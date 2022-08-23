@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Exercicio03</string>
+    <string name="cidade">Cidade</string>
+    <string name="nascer_do_sol">Nascer do Sol</string>
+    <string name="sensation">Sensação Térmica</string>
+    <string name="city">City</string>
+    <string name="btn_retorno">Botão Retorno</string>
+    <string name="tempo_limpo">Clima</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="value_temp">°C</string>
+    <string name="temp_max">Temp max °C</string>
+    <string name="temp_min">Temp min °C</string>
+    <string name="hr">--:--:--</string>
+    <string name="pressure">Pressão</string>
+    <string name="number_value"> milibar</string>
+    <string name="umidade">Umidade</string>
+    <string name="number_porcent">%</string>
+    <string name="latitude">Latitude</string>
+    <string name="lat">0.0</string>
+    <string name="longitude">Longitude</string>
+    <string name="log">0.0</string>
+    <string name="data">Data</string>
+</resources>
